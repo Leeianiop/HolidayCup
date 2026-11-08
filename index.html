@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>HIFA Holiday Cup</title>
+<meta name="description" content="The HIFA Holiday Cup: the best cup of the year. Participation, where to watch and sponsorships.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Instrument+Serif:ital@0;1&family=Pinyon+Script&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<canvas class="stars" id="starsA" aria-hidden="true"></canvas>
+<canvas class="stars" id="starsB" aria-hidden="true"></canvas>
+<div class="stripes" id="stripes" aria-hidden="true"></div>
+<div class="hl" id="hl" aria-hidden="true"><img src="assets/highlighters.webp" alt=""></div>
+
+<header class="hdr" id="hdr">
+  <nav class="nav" aria-label="Main">
+    <a href="#tourney" id="nav-tourney" class="on">The tourney</a>
+    <a href="#fixtures" data-soon="Festive Fixtures">Festive Fixtures</a>
+    <a href="#players" data-soon="Players">Players</a>
+  </nav>
+</header>
+
+<a class="logo" id="logo" href="#top" aria-label="HIFA Holiday Cup, back to top">
+  <img src="assets/logo.webp" alt="IFA Holiday Cup logo" width="980" height="635">
+</a>
+
+<main id="top">
+  <section class="hero" id="hero">
+
+    <div class="logo-spacer" id="logoSpacer"></div>
+    <svg class="divider" id="div1" viewBox="0 0 800 40" aria-hidden="true"><g fill="none" stroke="#fff" stroke-width="3"><rect x="4" y="8" width="24" height="24" transform="rotate(45 16 20)"/><rect x="772" y="8" width="24" height="24" transform="rotate(45 784 20)"/><path d="M36 20H764"/></g></svg>
+    <div class="tag" id="tag"><span>The Best Cup of The Year</span><i class="caret" aria-hidden="true"></i></div>
+  </section>
+
+  <section class="tourney" id="tourney">
+    <div class="story" id="story">
+      <p class="rv">The HIFA Holiday Cup was created in November 2025 after the great highlighter depression.</p>
+      <p class="rv">It was proposed as a “super-cup” to wrap up the season and celebrate the upcoming holiday breaks</p>
+      <p class="rv">The format of the tourney features different varieties, from 1v1v1v1 down to a 1v1.</p>
+      <p class="rv">The Holiday Cup is well-known in the history of HIFA for producing iconic moments and kills.</p>
+      <p class="rv">As of now <span class="champ">GoofyYellow</span> remains the standing champion of the tourney, after giving us an incredible final back in December 5<sup>th</sup> 2026.</p>
+      <p class="rv">The HIFA Holiday Cup remains a tradition, becoming the largest HIFA tourney and a celebration of the game.</p>
+    </div>
+
+    <div class="acc-wrap">
+      <div class="acc rv">
+        <button class="pill" id="b1" aria-expanded="false" aria-controls="p1"><span>Participation</span><i class="dia"></i></button>
+        <div class="panel" id="p1" role="region" aria-labelledby="b1"><div class="panel-in"><div class="panel-box red">
+          <p>Participation is available for students in F4/J3 only</p>
+          <p>Reach out to our <a class="insta-link" href="https://www.instagram.com/hifa.official/" target="_blank" rel="noopener noreferrer">insta</a> or any HIFA member for more information</p>
+        </div></div></div>
+      </div>
+      <div class="acc rv">
+        <button class="pill grey" id="b2" aria-expanded="false" aria-controls="p2"><span>Where to watch</span><i class="dia"></i></button>
+        <div class="panel" id="p2" role="region" aria-labelledby="b2"><div class="panel-in"><div class="panel-box grey">
+          <p>Matches will be played out in F4M during recess times or after school. Check the Festive Fixtures for dates on specific matches</p>
+        </div></div></div>
+      </div>
+      <div class="acc rv">
+        <button class="pill" id="b3" aria-expanded="false" aria-controls="p3"><span>Sponsorships</span><i class="dia"></i></button>
+        <div class="panel" id="p3" role="region" aria-labelledby="b3"><div class="panel-in"><div class="panel-box red">
+          <p>Reach out to our <a class="insta-link" href="https://www.instagram.com/hifa.official/" target="_blank" rel="noopener noreferrer">insta</a> or any HIFA member for more information on what you want to sponsor on</p>
+        </div></div></div>
+      </div>
+    </div>
+
+    <footer class="foot">
+      <a class="ig" id="igLink" href="https://www.instagram.com/hifa.official/" target="_blank" rel="noopener noreferrer" aria-label="hifa.official on Instagram">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r=".6" fill="currentColor"/></svg>
+        <span>hifa.official</span>
+      </a>
+      <svg class="divider" viewBox="0 0 800 40" aria-hidden="true"><g fill="none" stroke="#fff" stroke-width="3"><rect x="4" y="8" width="24" height="24" transform="rotate(45 16 20)"/><rect x="772" y="8" width="24" height="24" transform="rotate(45 784 20)"/><path d="M36 20H764"/></g></svg>
+      <div class="est">HIFA Est 2025</div>
+    </footer>
+  </section>
+</main>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="script.js"></script>
+</body>
+</html>
