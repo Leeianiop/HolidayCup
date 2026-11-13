@@ -1,0 +1,493 @@
+{
+  "players": [
+    {
+      "id": "greencastle",
+      "name": "GREENCASTLE",
+      "color": "#00b95c",
+      "cls": "F4M",
+      "s": {
+        "a": 65,
+        "p": 60,
+        "c": 50,
+        "f": 75,
+        "d": 85
+      }
+    },
+    {
+      "id": "polarblue",
+      "name": "POLARBLUE",
+      "color": "#3db8ff",
+      "cls": "F4M",
+      "s": {
+        "a": 90,
+        "p": 68,
+        "c": 85,
+        "f": 90,
+        "d": 70
+      }
+    },
+    {
+      "id": "theorangeorange",
+      "name": "THEORANGEORANGE",
+      "color": "#ffab8c",
+      "cls": "F4M",
+      "s": {
+        "a": 65,
+        "d": 80,
+        "p": 99,
+        "c": 75,
+        "f": 65
+      }
+    },
+    {
+      "id": "indianpink",
+      "name": "INDIANPINK",
+      "color": "#ff2a7a",
+      "cls": "F4M",
+      "s": {
+        "a": 58,
+        "c": 55,
+        "p": 69,
+        "d": 75,
+        "f": 61
+      }
+    },
+    {
+      "id": "purplephishers",
+      "name": "PURPLEPHISHERS",
+      "color": "#e2aef0",
+      "cls": "F4M",
+      "s": {
+        "c": 50,
+        "a": 55,
+        "p": 65,
+        "f": 55,
+        "d": 75
+      }
+    },
+    {
+      "id": "greener",
+      "name": "NIGGERGREEN",
+      "color": "#00a040",
+      "cls": "F4M",
+      "s": {
+        "f": 96,
+        "c": 55,
+        "p": 50,
+        "d": 55,
+        "a": 75
+      }
+    },
+    {
+      "id": "monnitered",
+      "name": "MONNITERED",
+      "color": "#c00000",
+      "cls": "F4M",
+      "s": {
+        "a": 85,
+        "p": 55,
+        "c": 45,
+        "f": 35,
+        "d": 60
+      }
+    },
+    {
+      "id": "sadiepink",
+      "name": "SADIEPINK",
+      "color": "#ffb8d8",
+      "cls": "F4M",
+      "s": {
+        "a": 20,
+        "p": 10,
+        "c": 5,
+        "f": 4,
+        "d": 55
+      }
+    },
+    {
+      "id": "gyatgreen",
+      "name": "GYATGREEN",
+      "color": "#4cc470",
+      "cls": "F4M",
+      "s": {
+        "a": 30,
+        "p": 20,
+        "c": 35,
+        "f": 45,
+        "d": 45
+      }
+    },
+    {
+      "id": "crimsonbrown",
+      "name": "CRIMSONBROWN",
+      "color": "#c0000a",
+      "cls": "F4M",
+      "s": {
+        "a": 75,
+        "p": 55,
+        "c": 85,
+        "f": 65,
+        "d": 75
+      }
+    },
+    {
+      "id": "supaniga",
+      "name": "SUPANIGA",
+      "color": "#000000",
+      "cls": "ITC",
+      "s": {
+        "a": 65,
+        "p": 45,
+        "c": 40,
+        "f": 35,
+        "d": 29
+      }
+    },
+    {
+      "id": "godforce",
+      "name": "GODFORCE",
+      "color": "#000000",
+      "cls": "PATC",
+      "s": {
+        "a": 60,
+        "p": 60,
+        "c": 65,
+        "f": 55,
+        "d": 85
+      }
+    },
+    {
+      "id": "shittyorange",
+      "name": "SHITTYORANGE",
+      "color": "#ff8000",
+      "cls": "F4M",
+      "s": {
+        "a": 40,
+        "p": 55,
+        "c": 35,
+        "f": 45,
+        "d": 50
+      }
+    },
+    {
+      "id": "tuffblueblue",
+      "name": "TUFFBLUEBLUE",
+      "color": "#a8c4f8",
+      "cls": "F4M",
+      "s": {
+        "a": 75,
+        "p": 45,
+        "c": 40,
+        "f": 35,
+        "d": 56
+      }
+    },
+    {
+      "id": "silentlogger",
+      "name": "EPSTIENGREEN",
+      "color": "#1fd060",
+      "cls": "F4P",
+      "s": {
+        "a": 40,
+        "p": 35,
+        "c": 30,
+        "f": 20,
+        "d": 35
+      }
+    },
+    {
+      "id": "slot16",
+      "name": "GREENBEAN",
+      "color": "#4cd02a",
+      "cls": "J3J",
+      "s": {
+        "a": 55,
+        "p": 65,
+        "d": 77,
+        "f": 59,
+        "c": 55
+      }
+    }
+  ],
+  "matches": {
+    "1": {
+      "p": [
+        "theorangeorange",
+        "tuffblueblue",
+        "greencastle",
+        "shittyorange"
+      ],
+      "k": [
+        [
+          "theorangeorange",
+          "tuffblueblue"
+        ],
+        [
+          "theorangeorange",
+          "shittyorange"
+        ],
+        [
+          "greencastle",
+          "greencastle"
+        ]
+      ],
+      "w": "theorangeorange"
+    },
+    "2": {
+      "p": [
+        "monnitered",
+        "supaniga",
+        "slot16",
+        "greener"
+      ],
+      "k": [
+        [
+          "monnitered",
+          "greener"
+        ],
+        [
+          "supaniga",
+          "supaniga"
+        ],
+        [
+          "monnitered",
+          "monnitered"
+        ]
+      ],
+      "w": "slot16"
+    },
+    "3": {
+      "p": [
+        "sadiepink",
+        "polarblue",
+        "silentlogger",
+        "purplephishers"
+      ],
+      "k": [
+        [
+          "polarblue",
+          "sadiepink"
+        ],
+        [
+          "silentlogger",
+          "silentlogger"
+        ],
+        [
+          "purplephishers",
+          "polarblue",
+          "t"
+        ]
+      ],
+      "w": "polarblue"
+    },
+    "4": {
+      "p": [
+        "indianpink",
+        "godforce",
+        "gyatgreen",
+        "crimsonbrown"
+      ],
+      "k": [
+        [
+          "godforce",
+          "indianpink"
+        ],
+        [
+          "crimsonbrown",
+          "gyatgreen"
+        ],
+        [
+          "crimsonbrown",
+          "crimsonbrown"
+        ]
+      ],
+      "w": "godforce"
+    },
+    "5": {
+      "p": [
+        "theorangeorange",
+        "monnitered",
+        "sadiepink",
+        "indianpink"
+      ],
+      "k": [
+        [
+          "monnitered",
+          "sadiepink"
+        ],
+        [
+          "theorangeorange",
+          "theorangeorange"
+        ],
+        [
+          "monnitered",
+          "monnitered"
+        ]
+      ],
+      "w": "indianpink"
+    },
+    "6": {
+      "p": [
+        "tuffblueblue",
+        "supaniga",
+        "polarblue",
+        "godforce"
+      ],
+      "k": [
+        [
+          "polarblue",
+          "supaniga"
+        ],
+        [
+          "tuffblueblue",
+          "godforce",
+          "t"
+        ]
+      ],
+      "w": "polarblue"
+    },
+    "7": {
+      "p": [
+        "greencastle",
+        "slot16",
+        "silentlogger",
+        "gyatgreen"
+      ],
+      "k": [
+        [
+          "slot16",
+          "slot16"
+        ],
+        [
+          "greencastle",
+          "gyatgreen"
+        ],
+        [
+          "greencastle",
+          "silentlogger"
+        ]
+      ],
+      "w": "greencastle"
+    },
+    "8": {
+      "p": [
+        "shittyorange",
+        "greener",
+        "purplephishers",
+        "crimsonbrown"
+      ],
+      "k": [
+        [
+          "purplephishers",
+          "crimsonbrown",
+          "t"
+        ],
+        [
+          "greener",
+          "shittyorange",
+          "t"
+        ]
+      ],
+      "w": "greener"
+    },
+    "9": {
+      "p": [
+        "theorangeorange",
+        "supaniga",
+        "silentlogger",
+        "crimsonbrown"
+      ],
+      "k": []
+    },
+    "10": {
+      "p": [
+        "tuffblueblue",
+        "monnitered",
+        "purplephishers",
+        "gyatgreen"
+      ],
+      "k": [
+        [
+          "gyatgreen",
+          "monnitered"
+        ],
+        [
+          "purplephishers",
+          "purplephishers"
+        ],
+        [
+          "gyatgreen",
+          "gyatgreen"
+        ]
+      ],
+      "w": "tuffblueblue"
+    },
+    "11": {
+      "p": [
+        "greencastle",
+        "greener",
+        "sadiepink",
+        "godforce"
+      ],
+      "k": [
+        [
+          "greener",
+          "greencastle",
+          "t"
+        ],
+        [
+          "sadiepink",
+          "sadiepink"
+        ]
+      ],
+      "w": "godforce"
+    },
+    "12": {
+      "p": [
+        "shittyorange",
+        "slot16",
+        "polarblue",
+        "indianpink"
+      ],
+      "k": []
+    },
+    "13": {
+      "p": [
+        "theorangeorange",
+        "slot16",
+        "purplephishers",
+        "godforce"
+      ],
+      "k": []
+    },
+    "14": {
+      "p": [
+        "tuffblueblue",
+        "greener",
+        "silentlogger",
+        "indianpink"
+      ],
+      "k": []
+    },
+    "15": {
+      "p": [
+        "greencastle",
+        "monnitered",
+        "polarblue",
+        "crimsonbrown"
+      ],
+      "k": []
+    },
+    "16": {
+      "p": [
+        "shittyorange",
+        "supaniga",
+        "sadiepink",
+        "gyatgreen"
+      ],
+      "k": []
+    }
+  },
+  "updated": 1794546800499,
+  "wp": 2
+}
