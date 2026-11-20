@@ -1,0 +1,729 @@
+{
+  "players": [
+    {
+      "id": "greencastle",
+      "name": "GREENCASTLE",
+      "color": "#00b95c",
+      "cls": "F4M",
+      "s": {
+        "a": 65,
+        "p": 60,
+        "c": 50,
+        "f": 75,
+        "d": 85
+      }
+    },
+    {
+      "id": "polarblue",
+      "name": "POLARBLUE",
+      "color": "#3db8ff",
+      "cls": "F4M",
+      "s": {
+        "a": 90,
+        "p": 80,
+        "c": 77,
+        "f": 85,
+        "d": 75
+      }
+    },
+    {
+      "id": "theorangeorange",
+      "name": "THEORANGEORANGE",
+      "color": "#ffab8c",
+      "cls": "F4M",
+      "s": {
+        "a": 67,
+        "d": 80,
+        "p": 85,
+        "c": 68,
+        "f": 60
+      }
+    },
+    {
+      "id": "indianpink",
+      "name": "INDIANPINK",
+      "color": "#ff2a7a",
+      "cls": "F4M",
+      "s": {
+        "a": 33,
+        "c": 60,
+        "p": 54,
+        "d": 78,
+        "f": 50
+      }
+    },
+    {
+      "id": "purplephishers",
+      "name": "PURPLEPHISHERS",
+      "color": "#e2aef0",
+      "cls": "F4M",
+      "s": {
+        "c": 54,
+        "a": 45,
+        "p": 57,
+        "f": 55,
+        "d": 62
+      }
+    },
+    {
+      "id": "greener",
+      "name": "NIGGERGREEN",
+      "color": "#00a040",
+      "cls": "F4M",
+      "s": {
+        "f": 91,
+        "c": 67,
+        "p": 57,
+        "d": 47,
+        "a": 83
+      }
+    },
+    {
+      "id": "monnitered",
+      "name": "MONNITERED",
+      "color": "#c00000",
+      "cls": "F4M",
+      "s": {
+        "a": 90,
+        "p": 55,
+        "c": 73,
+        "f": 76,
+        "d": 60
+      }
+    },
+    {
+      "id": "sadiepink",
+      "name": "VERITYYELLOW",
+      "color": "#ffb8d8",
+      "cls": "F4M",
+      "s": {
+        "a": 20,
+        "p": 10,
+        "c": 5,
+        "f": 4,
+        "d": 49
+      },
+      "t": "yellow"
+    },
+    {
+      "id": "gyatgreen",
+      "name": "GYATGREEN",
+      "color": "#4cc470",
+      "cls": "F4M",
+      "s": {
+        "a": 72,
+        "p": 66,
+        "c": 43,
+        "f": 45,
+        "d": 53
+      }
+    },
+    {
+      "id": "crimsonbrown",
+      "name": "CRIMSONBROWN",
+      "color": "#c0000a",
+      "cls": "F4M",
+      "s": {
+        "a": 65,
+        "p": 36,
+        "c": 52,
+        "f": 55,
+        "d": 43
+      }
+    },
+    {
+      "id": "supaniga",
+      "name": "SUPANIGA",
+      "color": "#000000",
+      "cls": "ITC",
+      "s": {
+        "a": 69,
+        "p": 45,
+        "c": 40,
+        "f": 32,
+        "d": 49
+      }
+    },
+    {
+      "id": "godforce",
+      "name": "GODFORCE",
+      "color": "#000000",
+      "cls": "PATC",
+      "s": {
+        "a": 60,
+        "p": 60,
+        "c": 65,
+        "f": 55,
+        "d": 85
+      }
+    },
+    {
+      "id": "shittyorange",
+      "name": "SHITTYORANGE",
+      "color": "#ff8000",
+      "cls": "F4M",
+      "s": {
+        "a": 49,
+        "p": 57,
+        "c": 36,
+        "f": 51,
+        "d": 68
+      }
+    },
+    {
+      "id": "tuffblueblue",
+      "name": "TUFFBLUEBLUE",
+      "color": "#a8c4f8",
+      "cls": "F4M",
+      "s": {
+        "a": 75,
+        "p": 45,
+        "c": 40,
+        "f": 35,
+        "d": 56
+      }
+    },
+    {
+      "id": "silentlogger",
+      "name": "EPSTIENGREEN",
+      "color": "#1fd060",
+      "cls": "F4P",
+      "s": {
+        "a": 40,
+        "p": 35,
+        "c": 30,
+        "f": 20,
+        "d": 35
+      }
+    },
+    {
+      "id": "slot16",
+      "name": "GREENBEAN",
+      "color": "#4cd02a",
+      "cls": "J3J",
+      "s": {
+        "a": 47,
+        "p": 56,
+        "d": 71,
+        "f": 44,
+        "c": 48
+      }
+    },
+    {
+      "id": "aq-goofyyellow",
+      "name": "GOOFYYELLOW",
+      "color": "#ffd21e",
+      "aq": 1,
+      "s": {
+        "a": 90,
+        "p": 85,
+        "c": 80,
+        "f": 75,
+        "d": 85
+      },
+      "cls": "F4M"
+    },
+    {
+      "id": "aq-pussypurple",
+      "name": "PUSSYPURPLE",
+      "color": "#b36be0",
+      "aq": 1,
+      "s": {
+        "a": 80,
+        "c": 62,
+        "d": 72,
+        "f": 74,
+        "p": 64
+      },
+      "cls": "F4M"
+    },
+    {
+      "id": "aq-betterpurple",
+      "name": "BETTERPURPLE",
+      "color": "#d3a5ff",
+      "aq": 1,
+      "s": {
+        "a": 100,
+        "p": 99,
+        "c": 92,
+        "f": 87,
+        "d": 75
+      },
+      "cls": "F4M"
+    },
+    {
+      "id": "aq-soloupink",
+      "name": "SOLOUPINK",
+      "color": "#ff5fa8",
+      "aq": 1,
+      "s": {
+        "a": 75,
+        "p": 80,
+        "c": 85,
+        "f": 92,
+        "d": 75
+      },
+      "cls": "F4M"
+    }
+  ],
+  "matches": {
+    "1": {
+      "p": [
+        "theorangeorange",
+        "tuffblueblue",
+        "greencastle",
+        "shittyorange"
+      ],
+      "k": [
+        [
+          "theorangeorange",
+          "tuffblueblue"
+        ],
+        [
+          "theorangeorange",
+          "shittyorange"
+        ],
+        [
+          "greencastle",
+          "greencastle"
+        ]
+      ],
+      "w": "theorangeorange"
+    },
+    "2": {
+      "p": [
+        "monnitered",
+        "supaniga",
+        "slot16",
+        "greener"
+      ],
+      "k": [
+        [
+          "monnitered",
+          "greener"
+        ],
+        [
+          "supaniga",
+          "supaniga"
+        ],
+        [
+          "monnitered",
+          "monnitered"
+        ]
+      ],
+      "w": "slot16"
+    },
+    "3": {
+      "p": [
+        "sadiepink",
+        "polarblue",
+        "silentlogger",
+        "purplephishers"
+      ],
+      "k": [
+        [
+          "polarblue",
+          "sadiepink"
+        ],
+        [
+          "silentlogger",
+          "silentlogger"
+        ],
+        [
+          "purplephishers",
+          "polarblue",
+          "t"
+        ]
+      ],
+      "w": "polarblue"
+    },
+    "4": {
+      "p": [
+        "indianpink",
+        "godforce",
+        "gyatgreen",
+        "crimsonbrown"
+      ],
+      "k": [
+        [
+          "godforce",
+          "indianpink"
+        ],
+        [
+          "crimsonbrown",
+          "gyatgreen"
+        ],
+        [
+          "crimsonbrown",
+          "crimsonbrown"
+        ]
+      ],
+      "w": "godforce"
+    },
+    "5": {
+      "p": [
+        "theorangeorange",
+        "monnitered",
+        "sadiepink",
+        "indianpink"
+      ],
+      "k": [
+        [
+          "monnitered",
+          "sadiepink"
+        ],
+        [
+          "theorangeorange",
+          "theorangeorange"
+        ],
+        [
+          "monnitered",
+          "monnitered"
+        ]
+      ],
+      "w": "indianpink"
+    },
+    "6": {
+      "p": [
+        "tuffblueblue",
+        "supaniga",
+        "polarblue",
+        "godforce"
+      ],
+      "k": [
+        [
+          "polarblue",
+          "supaniga"
+        ],
+        [
+          "tuffblueblue",
+          "godforce",
+          "t"
+        ]
+      ],
+      "w": "polarblue"
+    },
+    "7": {
+      "p": [
+        "greencastle",
+        "slot16",
+        "silentlogger",
+        "gyatgreen"
+      ],
+      "k": [
+        [
+          "slot16",
+          "slot16"
+        ],
+        [
+          "greencastle",
+          "gyatgreen"
+        ],
+        [
+          "greencastle",
+          "silentlogger"
+        ]
+      ],
+      "w": "greencastle"
+    },
+    "8": {
+      "p": [
+        "shittyorange",
+        "greener",
+        "purplephishers",
+        "crimsonbrown"
+      ],
+      "k": [
+        [
+          "purplephishers",
+          "crimsonbrown",
+          "t"
+        ],
+        [
+          "greener",
+          "shittyorange",
+          "t"
+        ]
+      ],
+      "w": "greener"
+    },
+    "9": {
+      "p": [
+        "theorangeorange",
+        "supaniga",
+        "silentlogger",
+        "crimsonbrown"
+      ],
+      "k": [
+        [
+          "supaniga",
+          "supaniga"
+        ],
+        [
+          "theorangeorange",
+          "crimsonbrown"
+        ],
+        [
+          "silentlogger",
+          "theorangeorange",
+          "t"
+        ]
+      ],
+      "w": "theorangeorange"
+    },
+    "10": {
+      "p": [
+        "tuffblueblue",
+        "monnitered",
+        "purplephishers",
+        "gyatgreen"
+      ],
+      "k": [
+        [
+          "gyatgreen",
+          "monnitered"
+        ],
+        [
+          "purplephishers",
+          "purplephishers"
+        ],
+        [
+          "gyatgreen",
+          "gyatgreen"
+        ]
+      ],
+      "w": "tuffblueblue"
+    },
+    "11": {
+      "p": [
+        "greencastle",
+        "greener",
+        "sadiepink",
+        "godforce"
+      ],
+      "k": [
+        [
+          "greener",
+          "greencastle",
+          "t"
+        ],
+        [
+          "sadiepink",
+          "sadiepink"
+        ]
+      ],
+      "w": "godforce"
+    },
+    "12": {
+      "p": [
+        "shittyorange",
+        "slot16",
+        "polarblue",
+        "indianpink"
+      ],
+      "k": [
+        [
+          "slot16",
+          "slot16"
+        ],
+        [
+          "shittyorange",
+          "shittyorange"
+        ],
+        [
+          "polarblue",
+          "indianpink",
+          "t"
+        ]
+      ],
+      "w": "polarblue"
+    },
+    "13": {
+      "p": [
+        "theorangeorange",
+        "slot16",
+        "purplephishers",
+        "godforce"
+      ],
+      "k": [
+        [
+          "slot16",
+          "slot16"
+        ],
+        [
+          "theorangeorange",
+          "purplephishers",
+          "t"
+        ]
+      ],
+      "w": "godforce"
+    },
+    "14": {
+      "p": [
+        "tuffblueblue",
+        "greener",
+        "silentlogger",
+        "indianpink"
+      ],
+      "k": [
+        [
+          "greener",
+          "indianpink"
+        ],
+        [
+          "greener",
+          "tuffblueblue"
+        ],
+        [
+          "silentlogger",
+          "greener",
+          "t"
+        ]
+      ],
+      "w": "greener"
+    },
+    "15": {
+      "p": [
+        "greencastle",
+        "monnitered",
+        "polarblue",
+        "crimsonbrown"
+      ],
+      "k": [
+        [
+          "polarblue",
+          "monnitered"
+        ],
+        [
+          "polarblue",
+          "polarblue"
+        ],
+        [
+          "crimsonbrown",
+          "crimsonbrown"
+        ]
+      ],
+      "w": "greencastle"
+    },
+    "16": {
+      "p": [
+        "shittyorange",
+        "supaniga",
+        "sadiepink",
+        "gyatgreen"
+      ],
+      "k": [
+        [
+          "supaniga",
+          "supaniga"
+        ],
+        [
+          "gyatgreen",
+          "sadiepink"
+        ],
+        [
+          "shittyorange",
+          "gyatgreen"
+        ]
+      ],
+      "w": "shittyorange"
+    }
+  },
+  "updated": 1795179078218,
+  "wp": 2,
+  "br": {
+    "g": {
+      "A": [
+        "aq-soloupink",
+        "polarblue",
+        "gyatgreen"
+      ],
+      "B": [
+        "aq-goofyyellow",
+        "greener",
+        "shittyorange"
+      ],
+      "C": [
+        "aq-betterpurple",
+        "godforce",
+        "greencastle"
+      ],
+      "D": [
+        "aq-pussypurple",
+        "theorangeorange",
+        "monnitered"
+      ]
+    },
+    "m": {
+      "A-ab": {
+        "ka": 1,
+        "kb": 0,
+        "w": "a"
+      },
+      "A-bc": {
+        "ka": 1,
+        "kb": 0,
+        "w": "a"
+      },
+      "A-ca": {
+        "ka": 0,
+        "kb": 1,
+        "w": "b"
+      },
+      "B-ab": {
+        "ka": 1,
+        "kb": 0,
+        "w": "a"
+      },
+      "B-bc": {
+        "ka": 1,
+        "kb": 0,
+        "w": "a"
+      },
+      "B-ca": {
+        "kb": 1,
+        "ka": 0,
+        "w": "b"
+      },
+      "C-ab": {
+        "ka": 1,
+        "kb": 0,
+        "w": "a"
+      },
+      "C-bc": {
+        "ka": 0,
+        "kb": 1,
+        "w": "b"
+      },
+      "C-ca": {
+        "ka": 0,
+        "kb": 1,
+        "w": "b"
+      },
+      "D-ab": {
+        "ka": 0,
+        "kb": 1,
+        "w": "b"
+      },
+      "D-bc": {
+        "ka": 0,
+        "kb": 1,
+        "w": "b"
+      },
+      "D-ca": {
+        "ka": 0,
+        "kb": 1,
+        "w": "b"
+      }
+    },
+    "ko": {},
+    "yc": {},
+    "tb": {
+      "D": [
+        "theorangeorange",
+        "monnitered",
+        "aq-pussypurple"
+      ]
+    }
+  }
+}
