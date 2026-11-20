@@ -84,16 +84,16 @@
       "color": "#c00000",
       "cls": "F4M",
       "s": {
-        "a": 81,
+        "a": 83,
         "p": 55,
-        "c": 54,
-        "f": 35,
+        "c": 70,
+        "f": 67,
         "d": 60
       }
     },
     {
       "id": "sadiepink",
-      "name": "SADIEPINK",
+      "name": "VERITYYELLOW",
       "color": "#ffb8d8",
       "cls": "F4M",
       "s": {
@@ -102,7 +102,8 @@
         "c": 5,
         "f": 4,
         "d": 49
-      }
+      },
+      "t": "yellow"
     },
     {
       "id": "gyatgreen",
@@ -219,7 +220,8 @@
         "c": 80,
         "f": 75,
         "d": 85
-      }
+      },
+      "cls": "F4M"
     },
     {
       "id": "aq-pussypurple",
@@ -227,12 +229,13 @@
       "color": "#b36be0",
       "aq": 1,
       "s": {
-        "a": 85,
-        "c": 92,
-        "d": 81,
-        "f": 75,
-        "p": 71
-      }
+        "a": 80,
+        "c": 62,
+        "d": 72,
+        "f": 74,
+        "p": 64
+      },
+      "cls": "F4M"
     },
     {
       "id": "aq-betterpurple",
@@ -245,7 +248,8 @@
         "c": 92,
         "f": 87,
         "d": 75
-      }
+      },
+      "cls": "F4M"
     },
     {
       "id": "aq-soloupink",
@@ -258,7 +262,8 @@
         "c": 85,
         "f": 92,
         "d": 75
-      }
+      },
+      "cls": "F4M"
     }
   ],
   "matches": {
@@ -624,32 +629,93 @@
       "w": "shittyorange"
     }
   },
-  "updated": 1795092717372,
+  "updated": 1795162147969,
   "wp": 2,
   "br": {
     "g": {
       "A": [
         "aq-goofyyellow",
-        "",
-        ""
+        "greener",
+        "shittyorange"
       ],
       "B": [
         "aq-pussypurple",
-        "",
-        ""
+        "theorangeorange",
+        "monnitered"
       ],
       "C": [
         "aq-betterpurple",
-        "",
-        ""
+        "greencastle",
+        "godforce"
       ],
       "D": [
         "aq-soloupink",
-        "",
-        ""
+        "polarblue",
+        "gyatgreen"
       ]
     },
-    "m": {},
+    "m": {
+      "A-ab": {
+        "ka": 1,
+        "kb": 0,
+        "w": "a"
+      },
+      "A-bc": {
+        "ka": 1,
+        "kb": 0,
+        "w": "a"
+      },
+      "A-ca": {
+        "ka": 0,
+        "kb": 1,
+        "w": "b"
+      },
+      "C-ab": {
+        "ka": 1,
+        "kb": 0,
+        "w": "a"
+      },
+      "C-bc": {
+        "ka": 1,
+        "kb": 0,
+        "w": "a"
+      },
+      "C-ca": {
+        "ka": 0,
+        "kb": 1,
+        "w": "b"
+      },
+      "D-ab": {
+        "ka": 1,
+        "kb": 0,
+        "w": "a"
+      },
+      "D-bc": {
+        "ka": 1,
+        "kb": 0,
+        "w": "a"
+      },
+      "D-ca": {
+        "ka": 0,
+        "kb": 1,
+        "w": "b"
+      },
+      "B-ab": {
+        "ka": 0,
+        "kb": 1,
+        "w": "b"
+      },
+      "B-bc": {
+        "ka": 0,
+        "kb": 1,
+        "w": "b"
+      },
+      "B-ca": {
+        "ka": 0,
+        "kb": 1,
+        "w": "b"
+      }
+    },
     "ko": {},
     "yc": {}
   }
